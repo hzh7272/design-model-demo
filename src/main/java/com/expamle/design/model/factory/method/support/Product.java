@@ -1,4 +1,4 @@
-package com.expamle.design.model.template.factory.support;
+package com.expamle.design.model.factory.method.support;
 
 /**
  * 定义产品父类，定义使用产品的抽象方法

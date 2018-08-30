@@ -1,4 +1,4 @@
-package com.expamle.design.model.template.factory.support;
+package com.expamle.design.model.factory.method.support;
 
 /**
  * 用户生成产品相关实例的工厂

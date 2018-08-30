@@ -1,7 +1,7 @@
-package com.expamle.design.model.template.factory.demo;
+package com.expamle.design.model.factory.method.demo;
 
-import com.expamle.design.model.template.factory.support.Factory;
-import com.expamle.design.model.template.factory.support.Product;
+import com.expamle.design.model.factory.method.support.Factory;
+import com.expamle.design.model.factory.method.support.Product;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

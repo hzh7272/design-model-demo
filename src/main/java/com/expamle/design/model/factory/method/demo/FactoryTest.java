@@ -1,11 +1,11 @@
-package com.expamle.design.model.template.factory.demo;
+package com.expamle.design.model.factory.method.demo;
 
-import com.expamle.design.model.template.factory.support.Factory;
-import com.expamle.design.model.template.factory.support.Product;
+import com.expamle.design.model.factory.method.support.Factory;
+import com.expamle.design.model.factory.method.support.Product;
 import org.junit.Test;
 
 /**
- * 模板工厂模式测试
+ * 工厂方法模式测试
  * @author hzh 2018/8/28 下午10:37
  */
 public class FactoryTest {
